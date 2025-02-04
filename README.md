@@ -1,4 +1,4 @@
-# PredictingHospitalReadmissions
+# Predicting Hospital Readmissions using Data Science/ML
 
 This project aims to develop a predictive model to determine the likelihood of a patient being readmitted to the hospital within 30 days. By analyzing factors such as procedures, prior conditions, age, and test results, the system provides hospitals with insights to optimize resource allocation, monitor high-risk patients, and improve treatment strategies. The model integrates various tools like Pandas, MySQL, scikit-learn, and Tableau to handle data, create predictive models, and visualize trends.
 
